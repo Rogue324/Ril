@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\po\\po\\plugins\\gameplayabilities\\source\\gameplayabilities\\private\\gameplayabilityspechandle.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\po\\po\\intermediate\\build\\win64\\x64\\poeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\po\\po\\plugins\\gameplayabilities\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\gameplayabilities\\definitions.gameplayabilities.h",
+            "e:\\po\\po\\plugins\\gameplayabilities\\source\\gameplayabilities\\public\\gameplayabilityspechandle.h",
+            "e:\\po\\po\\plugins\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplayabilityspechandle.generated.h",
+            "e:\\po\\po\\plugins\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\gameplayabilityspechandle.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

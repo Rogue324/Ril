@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\po\\po\\plugins\\gameplayabilities\\source\\gameplayabilities\\private\\tickableattributesetinterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\po\\po\\intermediate\\build\\win64\\x64\\poeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\po\\po\\plugins\\gameplayabilities\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\gameplayabilities\\definitions.gameplayabilities.h",
+            "e:\\po\\po\\plugins\\gameplayabilities\\source\\gameplayabilities\\public\\tickableattributesetinterface.h",
+            "e:\\po\\po\\plugins\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\tickableattributesetinterface.generated.h",
+            "e:\\po\\po\\plugins\\gameplayabilities\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplayabilities\\uht\\tickableattributesetinterface.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

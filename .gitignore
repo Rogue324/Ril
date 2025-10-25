@@ -1,0 +1,9 @@
+/GameplayAbilities/Binaries/Win64/*.dll
+/GameplayAbilities/Binaries/Win64/*.exp
+/GameplayAbilities/Binaries/Win64/*.pdb
+/GameplayAbilities/Binaries/Win64/*.modules
+*.rsp
+*.exp
+*.lib
+*.obj
+*.sarif
